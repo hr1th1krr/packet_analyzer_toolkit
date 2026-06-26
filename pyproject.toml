@@ -1,7 +1,7 @@
 [project]
 name = "raw-packet-parser"
 version = "0.1.0"
-description = "Add your description here"
+description = "A raw network packet analyzer written in Python."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
